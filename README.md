@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Ralia
-- 👀 I’m interested in collaborating with just about anyone who knows what they're doing
-- 🌱 I’m currently learning python programming. Looking to advance my skills in cybersecurity
-- 💞️ I’m looking to collaborate on python projects as well as linux 
+- 👋 Hi, I’m Dami
+- 👀 I’m interested in collaborating with Javascript, Node.js, React as well as python developers
+- 🌱 I’m an ethical hacker with certifications in view.
 - 📫 You can reach me at justforralia@gmail.com
 
 <!---
